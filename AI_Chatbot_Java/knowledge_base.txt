@@ -1,0 +1,14 @@
+Q: How do I register an account?
+A: To register, go to the Registration page, fill required fields (name, email, password), and click Submit. Check your email to verify the account.
+
+Q: How do I reset my password?
+A: Click "Forgot password" on the login page, enter your registered email, and follow the reset link sent to your email.
+
+Q: What are the working hours?
+A: Our support working hours are Monday–Friday, 9:30 AM to 6:00 PM IST.
+
+Q: How can I contact support?
+A: You can contact support at support@example.com or call +91-XXXXXXXXXX during working hours.
+
+Q: Do you provide API access?
+A: Yes, API access is available. Please request API credentials via support@example.com and include your use case.
